@@ -1,0 +1,33 @@
+{
+    "count": 3,
+    "value": [
+        {
+            "id": "ce3c4a2b-00f3-42c1-91c6-0eee995d2653",
+            "name": "flexential",
+            "url": "https://dev.azure.com/tzather/_apis/projects/ce3c4a2b-00f3-42c1-91c6-0eee995d2653",
+            "state": "wellFormed",
+            "revision": 1056,
+            "visibility": "private",
+            "lastUpdateTime": "2024-01-31T19:54:21.46Z"
+        },
+        {
+            "id": "f9991f16-2376-474d-aba1-279311b1d001",
+            "name": "projects",
+            "description": "Holds all the personal projects that I am working on",
+            "url": "https://dev.azure.com/tzather/_apis/projects/f9991f16-2376-474d-aba1-279311b1d001",
+            "state": "wellFormed",
+            "revision": 1046,
+            "visibility": "private",
+            "lastUpdateTime": "2023-10-29T15:12:56.557Z"
+        },
+        {
+            "id": "6945717c-e807-4021-bf5e-29fa77af20fb",
+            "name": "Zuhid",
+            "url": "https://dev.azure.com/tzather/_apis/projects/6945717c-e807-4021-bf5e-29fa77af20fb",
+            "state": "wellFormed",
+            "revision": 1090,
+            "visibility": "private",
+            "lastUpdateTime": "2024-09-25T22:24:43.587Z"
+        }
+    ]
+}

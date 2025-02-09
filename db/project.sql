@@ -1,0 +1,9 @@
+CREATE TABLE Projects (
+    ID VARCHAR(255) PRIMARY KEY,
+    Name VARCHAR(255) NOT NULL,
+    Url VARCHAR(255) NOT NULL,
+    State VARCHAR(50) NOT NULL,
+    Revision INT NOT NULL,
+    Visibility VARCHAR(50) NOT NULL,
+    LastUpdateTime TIMESTAMP NOT NULL
+);
