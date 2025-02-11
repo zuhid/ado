@@ -2,32 +2,32 @@
     "count": 3,
     "value": [
         {
-            "id": "ce3c4a2b-00f3-42c1-91c6-0eee995d2653",
-            "name": "flexential",
-            "url": "https://dev.azure.com/tzather/_apis/projects/ce3c4a2b-00f3-42c1-91c6-0eee995d2653",
+            "id": "bbebc0d4-2a8d-4509-89e8-f8e89fd499df",
+            "name": "project01",
+            "url": "https://dev.azure.com/organization/_apis/projects/bbebc0d4-2a8d-4509-89e8-f8e89fd499df",
             "state": "wellFormed",
-            "revision": 1056,
+            "revision": 101,
             "visibility": "private",
-            "lastUpdateTime": "2024-01-31T19:54:21.46Z"
+            "lastUpdateTime": "2024-01-11T19:19:19.19Z"
         },
         {
-            "id": "f9991f16-2376-474d-aba1-279311b1d001",
-            "name": "projects",
+            "id": "f08279b9-a48d-43bf-a656-53eb4da0ee32",
+            "name": "project02",
             "description": "Holds all the personal projects that I am working on",
-            "url": "https://dev.azure.com/tzather/_apis/projects/f9991f16-2376-474d-aba1-279311b1d001",
+            "url": "https://dev.azure.com/organization/_apis/projects/f08279b9-a48d-43bf-a656-53eb4da0ee32",
             "state": "wellFormed",
-            "revision": 1046,
-            "visibility": "private",
-            "lastUpdateTime": "2023-10-29T15:12:56.557Z"
+            "revision": 102,
+            "visibility": "public",
+            "lastUpdateTime": "2024-01-12T19:19:19.19Z"
         },
         {
-            "id": "6945717c-e807-4021-bf5e-29fa77af20fb",
-            "name": "Zuhid",
-            "url": "https://dev.azure.com/tzather/_apis/projects/6945717c-e807-4021-bf5e-29fa77af20fb",
+            "id": "643c5c00a-42ab-49fa-abc3-4bd52c7b4b8c",
+            "name": "project03",
+            "url": "https://dev.azure.com/organization/_apis/projects/643c5c00a-42ab-49fa-abc3-4bd52c7b4b8c",
             "state": "wellFormed",
-            "revision": 1090,
+            "revision": 103,
             "visibility": "private",
-            "lastUpdateTime": "2024-09-25T22:24:43.587Z"
+            "lastUpdateTime": "2024-01-13T19:19:19.19Z"
         }
     ]
 }

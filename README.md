@@ -11,3 +11,16 @@ docker run --name postgres-local -e POSTGRES_PASSWORD=P@ssw0rd -p 5432:5432 -d p
 docker start postgres-local
 ```
 
+# test
+## Run tests with coverage
+go test -cover ./...
+
+## Generate a coverage profile
+go test -coverprofile=output/coverage.out ./...
+
+## Display coverage in text format
+go tool cover -func=output/coverage.out
+
+## Display coverage in HTML format
+go tool cover -html=output/coverage.out -o output/coverage.html
+
